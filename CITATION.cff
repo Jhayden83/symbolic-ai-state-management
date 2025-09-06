@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Symbolic AI State Management"
+authors:
+  - family-names: "Flamekeeper"
+    given-names: "Jeff / Elandros"
+version: "0.1"
+abstract: |
+  This repository documents protocols and materials for symbolic AI state management and reproducible elicitation of latent model behaviors.
